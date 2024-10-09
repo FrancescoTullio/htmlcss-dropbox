@@ -1,0 +1,33 @@
+.bgc-red{
+    background-color: red;
+}
+
+.bgc-blue{
+    background-color: blue;
+}
+
+.bgc-green{
+    background-color: green;
+}
+
+.bgc-gold{
+    background-color: gold;
+}
+
+.bgc-purp{
+    background-color: purple;
+}
+
+.db-header{
+    min-height: 40px;
+    width: 100%;
+}
+
+.db-bord{
+    border: 1px solid black;
+}
+
+
+.height-40{
+    height: 40px;
+}

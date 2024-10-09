@@ -1,0 +1,75 @@
+/**rest**/
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+/**tipografia**/
+.txt-cent{
+    text-align: center;
+}
+
+.txt-left{
+    text-align: left;
+}
+
+
+/**header**/
+
+.header{
+
+}
+
+
+
+/**display flex**/
+.row{
+    display: flex;
+}
+
+.jfc-sbt{
+    justify-content: space-between;
+}
+
+.al-cent{
+    align-items: center;
+}
+
+.col-35{
+    width: 35%;
+}
+
+.col-20{
+    width: 20%;
+}
+
+.col-33{
+    width: calc(100% / 3);
+}
+
+.col-80{
+    width: 80%;
+}
+
+.col-65{
+    width: 65%;
+}
+
+.col-50{
+    width: 50%;
+}
