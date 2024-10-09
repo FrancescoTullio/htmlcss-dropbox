@@ -19,6 +19,14 @@ a{
     color: inherit;
 }
 
+.footer ul li{
+    padding-top: 15px;
+}
+
+.footer h3{
+    padding-bottom: 15px;
+}
+
 
 
 /**container**/
@@ -49,6 +57,12 @@ a{
     text-align: left;
 }
 
+.txt-white{
+    color: white;
+}
+
+
+
 
 /**padding**/
 
@@ -67,9 +81,7 @@ a{
 
 /**header**/
 
-.header{
 
-}
 
 
 
@@ -149,6 +161,13 @@ a{
 
 .col-80{
     width: 80%;
+}
+
+
+/**footer**/
+
+.footer{
+    background-color: black;
 }
 
 
