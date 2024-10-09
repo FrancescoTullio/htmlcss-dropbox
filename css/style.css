@@ -79,10 +79,23 @@ a{
     padding-top: 30px;
 }
 
+
+/**bottoni**/
+
+.btn{
+    padding: 5px;
+}
+
+.btn-blu{
+    background-color: #0061fe;
+}
+
 /**header**/
 
 
-
+.header{
+    padding: 30px;
+}
 
 
 
