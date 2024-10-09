@@ -19,15 +19,37 @@ a{
     color: inherit;
 }
 
+
+
+/**container**/
+
+.container{
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
 /**tipografia**/
 .txt-cent{
     text-align: center;
+}
+
+.size-big{
+    font-size: 3rem;
 }
 
 .txt-left{
     text-align: left;
 }
 
+
+/**padding**/
+
+
+.pad-hero{
+    padding-top: 50px; 
+}
 
 /**header**/
 
@@ -37,6 +59,17 @@ a{
 
 
 
+
+/**hero**/
+
+.hero{
+    background-color: #b4d0e6;
+    min-height: 600px;
+}
+
+.pad-tit{
+    padding-bottom: 30px;
+}
 /**display flex**/
 .row{
     display: flex;
