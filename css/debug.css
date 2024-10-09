@@ -33,6 +33,10 @@
 }
 
 
-.min-hero{
-    min-height: 300px;
+.min-hei-db-big{
+    min-height: 400px;
+}
+
+.min-hei-db-small{
+    min-height: 100px;
 }
