@@ -36,6 +36,8 @@ hr{
 }
 
 
+
+
 /**container**/
 
 .container-big{
@@ -113,6 +115,10 @@ hr{
     color: #0061fe;
 }
 
+
+.txt-purp{
+    color: purple;
+}
 
 /**bording**/
 
@@ -198,6 +204,10 @@ hr{
 
 .btn-blu{
     background-color: #0061fe;
+}
+
+.btn-white{
+    background-color: white;
 }
 
 /**header**/
