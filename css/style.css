@@ -57,6 +57,11 @@ ul{
     font-weight: 2rem;
 }
 
+.size-mid{
+    font-size: 3rem;
+    font-weight: 2rem;
+}
+
 .txt-left{
     text-align: left;
 }
@@ -78,6 +83,10 @@ ul{
 
 .border-grey{
     border: 1px solid grey;
+}
+
+.border-black{
+    border: 1px solid black;
 }
 
 .borderb-grey{
