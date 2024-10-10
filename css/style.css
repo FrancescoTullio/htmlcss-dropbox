@@ -314,7 +314,19 @@ hr{
 
 
 
+/**position**/
+
+.shift{
+    position: absolute;
+    z-index: -1;
+}
 
 
+.quest:hover .shift{
+    position: static;
+}
 
 
+.faq{
+    position: relative;
+}
