@@ -66,8 +66,17 @@ a{
 }
 
 
+/**bording**/
+
+.border-grey{
+    border: 1px solid grey;
+}
+
+
 
 /**margin**/
+
+
 
 .marginbot-40{
     margin-bottom: 40px;
@@ -84,6 +93,10 @@ a{
 }
 /**padding**/
 
+
+.pad-15{
+    padding: 15px;
+}
 
 .pad-hero{
     padding-top: 50px; 
