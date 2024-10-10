@@ -51,6 +51,37 @@ hr{
 }
 
 
+/**bg**/
+
+.background-lgreen{
+    background-color: lightgreen;
+}
+
+.background-porp{
+    background-color: purple;
+}
+
+.background-azzure{
+    background-color: azure;
+}
+
+
+.background-red{
+    background-color: red;
+}
+
+.background-blue{
+    background-color: blue;
+}
+
+.background-yellow{
+    background-color: yellow;
+}
+
+
+.background-lgrey{
+    background-color: lightgrey;
+}
 /**tipografia**/
 .txt-cent{
     text-align: center;
@@ -96,6 +127,12 @@ hr{
 .borderb-grey{
     border-bottom: 1px solid grey;
 }
+
+.border-greenyell{
+    border: 10px solid yellowgreen;
+}
+
+
 
 
 /**margin**/
