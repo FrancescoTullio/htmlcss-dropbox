@@ -87,7 +87,9 @@ ul{
 
 /**margin**/
 
-
+.margint-15{
+    margin-top: 15px;
+}
 
 .marginbot-40{
     margin-bottom: 40px;
@@ -113,6 +115,10 @@ ul{
     padding-top: 15px;
 }
 
+.padl-15{
+    padding-left: 15px;
+}
+
 .padt-30{
     padding-top: 30px;
 }
@@ -126,7 +132,11 @@ ul{
 }
 
 .pad-30{
-    padding-top: 30px;
+    padding: 30px;
+}
+
+.padb-30{
+    padding: 30px;
 }
 
 
